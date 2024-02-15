@@ -1,1 +1,3 @@
 Hi this is the text file
+
+Hey the release phase 1 has completed.
